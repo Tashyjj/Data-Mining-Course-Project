@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+creditcard.csv
+classifier_results_summary.csv
